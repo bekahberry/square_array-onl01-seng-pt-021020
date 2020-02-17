@@ -1,6 +1,6 @@
 def square_array(array)
   numbers = [1, 2, 3]
-number.each do |numbers|
-puts "#{numbers}**#{elements_in_numbers}"
+number.each do |number|
+puts "#{numbers}**#{|number|}"
  end
 end
