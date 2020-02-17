@@ -1,4 +1,5 @@
 def square_array(array)
 my_array = []
-arra.each do |
+array.each do |n|
+  
 end
