@@ -1,7 +1,7 @@
 def square_array(array)
-my_array = []
-array.each do |n|
-  my_value = n**2  
-  my_array << my_value
-end
+  myArray = []	
+    array.each do |n|	
+        myArray << n ** 2	
+    end	
+    new_array	
 end
