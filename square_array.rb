@@ -1,7 +1,6 @@
 def square_array(array)
   numbers = [1, 2, 3]
- elements_in_numbers = numbers.size
- elements_taken_out = 0
+number.each do
  while elements_taken_out < elements_in_numbers.each
  puts "#{numbers}**#{elements_in_numbers}"
  end
